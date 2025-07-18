@@ -16,8 +16,7 @@ To download a mod, visit its repository page (the main link on the left), then c
 
 | Repo | Description |
 | --- | --- |
-| placeholder1 | placeholder1 |
-| placeholder2 | placeholder2 |
+| [CustomKyd](https://github.com/DeadseatModding/CustomKyd) | Add some custom flavor to your GameKyd |
 
 <br />
 <div align=center>
