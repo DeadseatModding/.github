@@ -17,6 +17,7 @@ To download a mod, visit its repository page (the main link on the left), then c
 | Repo | Description |
 | --- | --- |
 | [CustomKyd](https://github.com/DeadseatModding/CustomKyd) | Add some custom flavor to your GameKyd |
+| [DisableButtons](https://github.com/DeadseatModding/DisableButtons) | This isn't useful, why did you install this? |
 
 <br />
 <div align=center>
