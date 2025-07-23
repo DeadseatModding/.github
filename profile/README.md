@@ -18,6 +18,7 @@ To download a mod, visit its repository page (the main link on the left), then c
 | --- | --- |
 | [Brainrot](https://github.com/DeadseatModding/Brainrot) | Rot your brain while playing the game |
 | [CustomKyd](https://github.com/DeadseatModding/CustomKyd) | Add some custom flavor to your GameKyd |
+| [CustomSounds](https://github.com/DeadseatModding/CustomSounds) | Replace all sound files in the game! |
 | [DisableButtons](https://github.com/DeadseatModding/DisableButtons) | This isn't useful, why did you install this? |
 | [NoSugarcoat](https://github.com/DeadseatModding/NoSugarcoat) | I'm not gonna sugarcoat it. |
 | [ThePresence](https://github.com/DeadseatModding/ThePresence) | Adds Discord Rich Presence support to The Deadseat |
