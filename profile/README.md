@@ -23,6 +23,13 @@ To download a mod, visit its repository page (the main link on the left), then c
 | [NoSugarcoat](https://github.com/DeadseatModding/NoSugarcoat) | I'm not gonna sugarcoat it. |
 | [ThePresence](https://github.com/DeadseatModding/ThePresence) | Adds Discord Rich Presence support to The Deadseat |
 
+## Custom Challenges & Presets
+A list of challenge mods and presets created using [CustomChallenges](https://github.com/DeadseatModding/CustomChallenges)
+
+| Repo | Description |
+| --- | --- |
+| [LethalObstacles](https://github.com/DeadseatModding/LethalObstacles) | Obstacles can now just kill you |
+
 # Libraries
 > [!TIP]
 > *Most* libraries are included as mod dependencies, [see the GMLWiki page](https://wiki.godotmodding.com/guides/modding/using_other_mods/) for help
