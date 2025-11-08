@@ -29,6 +29,7 @@ A list of challenge mods and presets created using [CustomChallenges](https://gi
 
 | Repo | Description |
 | --- | --- |
+| [DeadlyQuiet](https://github.com/DeadseatModding/DeadlyQuiet) | The monster no longer plays any audio queues |
 | [LethalObstacles](https://github.com/DeadseatModding/LethalObstacles) | Obstacles can now just kill you |
 
 # Libraries
